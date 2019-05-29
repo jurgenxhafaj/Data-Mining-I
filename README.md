@@ -16,4 +16,6 @@ films.csv, movies.csv --> contain data
 
 setup.py ---------------> needed for the main project file, to keep it neat
 
+This class was led by Dr. Scott Cook, Tarleton State University.
+
 Author: Jurgen Xhafaj
